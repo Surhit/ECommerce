@@ -1,0 +1,79 @@
+body{
+	padding-bottom: 0px;
+}
+.card-img {
+    height: 300px;
+    object-fit: contain;
+    background:white;
+}
+.card-text{
+	font-size: 2rem;
+}
+.card{
+	align-items: center;
+	margin-bottom: 50px;
+}
+.single_product{
+	margin-bottom: 20px;
+}
+*{
+ scroll-behavior: smooth;
+ text-decoration: none;
+}
+.footer_section{
+	margin-top: 70px;
+	margin-left: 50px;
+
+}
+.footer_section ul{
+	padding-left: 0px;
+}
+.footer_section a{
+	color: green!important;
+}
+a:hover{
+	text-decoration: none;
+}
+body > div.backtop{
+	position: relative;
+	top: -50px;
+}
+#footer_section > footer > div.container-fluid > div > div.col-md-3.col-12.pl-5.pl-small-15{
+	padding-left: 0px!important;
+}
+#footer_section ul{
+	list-style-type: none!important;
+}
+.new_product{
+	 position:absolute;
+	  top:0px;
+	  left:0px;
+	  padding:5px;
+	  color:white;
+	  transform:rotate(-30deg);
+	  text-shadow: 1px 1px grey;
+}
+.card {
+  position:relative;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+.about_text{
+	margin-top: 35px!important;
+}
+.testimonial img{
+	height: 300px;
+}
+.offer{
+	margin-top: 25px!important;
+}
+#contact .border{
+	margin-top: 25px;
+}
+#search_section a{
+	text-decoration: none;
+	color: black;
+}
